@@ -1,0 +1,6 @@
+{
+  "name": "Nex Arena",
+  "description": "A premium performance game booster, GFX tuning compiler, and esports scrimmage hub with AI performance coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
